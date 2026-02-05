@@ -1,0 +1,4 @@
+/vendor/
+/writable/
+/.env
+node_modules/
